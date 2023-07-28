@@ -17,7 +17,7 @@ function Map() {
 		getPosition,
 	} = useGeolocation();
 
-	const [mapPosition, setMapPosition] = useState([0, 0]);
+	const [mapPosition, setMapPosition] = useState([45, 0]);
 
 	const [mapLat, mapLng] = useUrlPosition();
 

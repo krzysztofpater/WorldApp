@@ -1,30 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Berlin",
       "country": "Germany",
       "emoji": "🇩🇪",
@@ -35,6 +11,42 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Kyiv",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2023-07-28T09:36:21.872Z",
+      "notes": "sss",
+      "position": {
+        "lat": "50.42951794712289",
+        "lng": "30.520019531250004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Krakow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-07-28T14:21:29.679Z",
+      "notes": "Former capital of Poland",
+      "position": {
+        "lat": "50.06066538593667",
+        "lng": "19.942932128906254"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2023-07-28T14:21:55.310Z",
+      "notes": "Current capital of Poland",
+      "position": {
+        "lat": "52.22779941887071",
+        "lng": "21.033325195312504"
+      },
+      "id": 98443200
     }
   ]
 }
