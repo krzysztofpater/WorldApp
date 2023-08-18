@@ -80,9 +80,6 @@ function DetectClick() {
 			navigate(`form?lat=${e.latlng.lat}&lng=${e.latlng.lng}`);
 			// map.locate();
 		},
-		// locationfound: (location) => {
-		// 	console.log("location found:", location);
-		// },
 	});
 
 	return null;

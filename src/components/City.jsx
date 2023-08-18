@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { useParams, useSearchParams } from "react-router-dom";
+import { useParams } from "react-router-dom";
 import { useCities } from "../contexts/CitiesContext";
 import Spinner from "./Spinner";
 import { FlagEmojiToPNG } from "./FlagToEmoji";
@@ -24,7 +24,7 @@ function City() {
 
 	useEffect(() => {
 		getCity(id);
-	}, [id]);
+	}, [id, getCity]);
 
 	const { cityName, emoji, date, notes } = currentCity;
 

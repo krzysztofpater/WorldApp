@@ -6,7 +6,6 @@ import Button from "../components/Button";
 import styles from "./Login.module.css";
 
 export default function Login() {
-	// PRE-FILL FOR DEV PURPOSES
 	const [email, setEmail] = useState("adam@example.com");
 	const [password, setPassword] = useState("qwerty");
 
