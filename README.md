@@ -1,4 +1,4 @@
-### WorldApp
+## WorldApp
 
 ## Geolocation-based react+vite app, that uses routing and user authentication
 
