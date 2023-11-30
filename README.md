@@ -7,7 +7,7 @@
 
 # How to use the app?
 
-In order to use the app you need to pull all the code to your local computer, install dependencies and run two servers:
+In order to use the app you need to clone all the code to your local computer, install dependencies and run two servers:
 
 1. npm run server - it will run fake API using JSON-server library,
 2. npm run dev - run the app,
